@@ -1,8 +1,7 @@
 {
   "name": "my-portfolio",
   "version": "0.1.0",
-  "private": true,
-  "homepage": "https://<Eranda-Abewardhana>.github.io/<React-Portfolio>",
+  "homepage": "https://Eranda-Abewardhana.github.io/React-Portfolio",
   "dependencies": {
     "@emotion/react": "^11.13.3",
     "@emotion/styled": "^11.13.0",
@@ -48,6 +47,7 @@
     ]
   },
   "devDependencies": {
-    "@babel/plugin-proposal-private-property-in-object": "^7.21.11"
+    "@babel/plugin-proposal-private-property-in-object": "^7.21.11",
+    "gh-pages": "^6.1.1"
   }
 }

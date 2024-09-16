@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/React-Portfolio/static/css/main.f83c6d19.css",
+    "main.js": "/React-Portfolio/static/js/main.d775f531.js",
+    "static/js/453.acca0757.chunk.js": "/React-Portfolio/static/js/453.acca0757.chunk.js",
+    "static/media/1673268863348.jpg": "/React-Portfolio/static/media/1673268863348.62fb5efd123d021226b0.jpg",
+    "static/media/only era.png": "/React-Portfolio/static/media/only era.b39470e97121fd9b880d.png",
+    "static/media/Screenshot 2023-09-05 173120.jpg": "/React-Portfolio/static/media/Screenshot 2023-09-05 173120.2c10810fe5185dd0d5f2.jpg",
+    "static/media/WhatsApp Image 2023-09-05 at 17.16.22.jpg": "/React-Portfolio/static/media/WhatsApp Image 2023-09-05 at 17.16.22.ea22cca0408cb91c8125.jpg",
+    "static/media/FB_IMG_1692357391476.jpg": "/React-Portfolio/static/media/FB_IMG_1692357391476.7f7f44bd189151b09984.jpg",
+    "static/media/era logo.png": "/React-Portfolio/static/media/era logo.9c6b9b1da2ba702234c6.png",
+    "index.html": "/React-Portfolio/index.html",
+    "main.f83c6d19.css.map": "/React-Portfolio/static/css/main.f83c6d19.css.map",
+    "main.d775f531.js.map": "/React-Portfolio/static/js/main.d775f531.js.map",
+    "453.acca0757.chunk.js.map": "/React-Portfolio/static/js/453.acca0757.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f83c6d19.css",
+    "static/js/main.d775f531.js"
+  ]
+}

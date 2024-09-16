@@ -16,7 +16,7 @@ function Contact() {
                             <a href="https://twitter.com/Eranda_Sathsara" target="_blank" rel="noopener noreferrer"><i className="fab fa-twitter"></i></a>
                             <a href="https://github.com/erandasathsara" target="_blank" rel="noopener noreferrer"><i className="fab fa-github"></i></a>
                         </div>
-                        <a href="Cv/eranda_sathsara_abewardhana_cv.pdf" download className="btn btn2">Download CV</a>
+                        <a href="Cv/Eranda%20Abewardhana-cv.pdf.pdf" download className="btn btn2">Download CV</a>
                     </div>
                     <div className="contact-right">
                         <form name="submit-to-google-sheet">
